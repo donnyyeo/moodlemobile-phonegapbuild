@@ -47698,7 +47698,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://times.taylors.edu.my",
+    "siteurl": "http://192.168.0.103",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
