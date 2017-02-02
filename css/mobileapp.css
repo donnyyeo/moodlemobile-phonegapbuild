@@ -1,11 +1,11 @@
 .bar-header {
-  background-color: #5069A1;
+  background-color: #565656;
 }
 
 ion-side-menu li .item {
-  background-color: #313848;
+  background-color: #55b5eb;
   border-color: #4F5865;
-  color: #BCC3CF;
+  color: #FFFFFF;
   
 }
   
@@ -53,7 +53,7 @@ ion-side-menu li.item.item-divider {
 }  
 
 .mm-site_mm_courses .tabs-icon-left {
-  background-color: #0BEFF8;  
+  background-color: #EBEFF8;  
 }
 .mm-site_mm_courses section h2 span {
   font-weight: bold;
