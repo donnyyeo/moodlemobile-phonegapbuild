@@ -47698,7 +47698,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://10.103.196.249",
+    "siteurl": "",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
