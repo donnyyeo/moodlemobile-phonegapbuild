@@ -3,9 +3,9 @@
 }
 
 ion-side-menu li .item {
-  background-color: #55b5eb;
+  background-color: #d9d9d9;
   border-color: #4F5865;
-  color: #FFFFFF;
+  color: black;
   
 }
   
@@ -42,7 +42,7 @@ ion-side-menu li.item.item-divider {
   color: orange;
 }
 .ion-gear-b {
-  color: dimgray;
+  color:  dimgray;
 }
 .ion-log-out {
   color: red;
