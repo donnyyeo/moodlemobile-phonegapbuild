@@ -47687,7 +47687,7 @@ angular.module('mm.addons.mod_wiki')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.moodle.moodlemobile2",
+    "app_id" : "com.moodle.moodlemobile",
     "appname": "Moodle Mobile",
     "versioncode" : "2016",
     "versionname" : "3.2.0",
